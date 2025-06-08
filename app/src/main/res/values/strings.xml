@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Festival Guess</string>
+    <string name="image_description">節日圖片</string>
+    <string name="guess_input_hint">輸入節日名稱</string>
+    <string name="guess_button_text">猜猜看</string>
+    <string name="result_text_placeholder">請輸入答案</string> <!-- 添加預設值 -->
+    <string name="score_text">你答對的題數是：0</string>
+    <string name="background_description">首頁背景圖片</string>
+    <string name="start_game_button_text">開始遊戲</string> <!-- 新增按鈕文字資源 -->
+</resources>
